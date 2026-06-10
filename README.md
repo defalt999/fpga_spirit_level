@@ -28,3 +28,8 @@ A digital spirit level implemented on the **DE10-Lite FPGA board**, using an ADX
 
 **VGA sqare** - The acceleartion values from `spi_phy` are passed to the `rgb_generator` that maps every pixel on the screen to a value of acceleration.
 
+---
+
+## RTL View
+![Demo](RTL_VIEW.png)
+---
